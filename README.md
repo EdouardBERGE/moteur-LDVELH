@@ -3,7 +3,7 @@ Règles supportées dédiées pour le moment aux défis fantastiques de façon g
 
 Préprocesseur à venir
 
-La liseuse utilise une fonte dédiée ainsi qu'un moteur d'affichage hautement configurable afin d'avoir de belles combinaisons graphique:
+La liseuse utilise une fonte dédiée ainsi qu'un moteur d'affichage hautement configurable afin d'avoir de belles combinaisons graphiques:
 - Une minuscule qui suit un T ou un V majuscule se retrouvera 1 pixel sous la capitale.
 - Un v minuscule qui suit un A majuscule sera rapproché.
 - Une minuscule qui suit un G majuscule se retrouvera au dessus de la jambe du G.
