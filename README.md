@@ -11,5 +11,5 @@ La liseuse utilise une fonte dédiée ainsi qu'un moteur d'affichage hautement c
 
 Le pré-processeur analyse le texte et n'exporte que les caractères utilisés (gain de mémoire), ainsi on peut ajouter à foison les caractères d'autres langues, comme l'espagnol par exemple.
 
-![screenshot](https://github.com/EdouardBERGE/moteur-LDVELH/blob/main/github/z80_engine/fonte.png)
+![screenshot](https://github.com/EdouardBERGE/moteur-LDVELH/blob/main/z80_engine/fonte.png)
 
